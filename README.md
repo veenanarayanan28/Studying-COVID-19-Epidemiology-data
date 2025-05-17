@@ -2,7 +2,7 @@
 
 This repository provides tools and analysis for exploring the COVID-19 Open-Data Epidemiology dataset, which contains detailed information related to COVID-19 infections for each date-region pair.
 
-📍 Official dataset website: https://health.google.com/covid-19/open-data/
+Official dataset website: https://health.google.com/covid-19/open-data/
 
 
 📌 Purpose of This Repository
